@@ -1,2 +1,3 @@
 # tri-comfy-worker
-ComfyUI worker for tri local UI
+
+ComfyUI worker bootstrap repo.
